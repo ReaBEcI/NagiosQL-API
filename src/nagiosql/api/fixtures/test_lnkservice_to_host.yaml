@@ -1,0 +1,6 @@
+- fields:
+    idmaster: 1000
+    idslave: 1000
+    exclude: 0
+  model: api.tbllnkservicetohost
+  pk: 0
