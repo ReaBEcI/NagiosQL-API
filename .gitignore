@@ -1,0 +1,5 @@
+*.pyc
+.coverage
+coverage.xml
+src/nagiosql/reports
+Sphinx/*
